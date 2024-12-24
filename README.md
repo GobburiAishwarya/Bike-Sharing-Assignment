@@ -34,7 +34,7 @@ We have to model the demand for shared bikes with the available independent vari
     - mnth_Sep
     - weekday_sun
     - weathersit_Light_snow_rain
-- We have used the data set 
+- We have used the data set - day.csv
 
 ## Technologies Used
 - numpy - version 1.26.4
