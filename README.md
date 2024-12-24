@@ -45,7 +45,7 @@ We have to model the demand for shared bikes with the available independent vari
 - sklearn - version 1.4.2
 
 ## Acknowledgements
-- This project was inspired by Linear Regressionsession on Upgrad by Dinesh J Babu (https://in.linkedin.com/in/dinesh-babu-jayagopi-22a706)
+- This project was inspired by Linear Regression session on Upgrad by Dinesh J Babu (https://in.linkedin.com/in/dinesh-babu-jayagopi-22a706)
 - UpGrad tutorials on Linear Regression are on the learning platform
   
 ## Contact
